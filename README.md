@@ -69,12 +69,12 @@ values: ["Clean Code", "Developer Experience", "Automation", "Impact"]
 ### GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jeffsynister&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=jeffsynister&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jeffleyd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=jeffleyd&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffsynister&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffleyd&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
 </p>
 
 ---
@@ -82,13 +82,13 @@ values: ["Clean Code", "Developer Experience", "Automation", "Impact"]
 ### Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jeffsynister/jeffsynister/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jeffleyd/jeffleyd/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeffsynister&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=jeffleyd&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 </p>
 
 <p align="center">
